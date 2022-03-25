@@ -1,0 +1,16 @@
+{
+  "name": "jest-json-result",
+  "version": "1.0.0",
+  "description": "Deal with jest results and only output statistics and error informatio. Strip ANSI strings",
+  "main": "index.js",
+  "author": "zu1662",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zu1662/jest-json-result.git"
+  },
+  "homepage": "https://github.com/zu1662/jest-json-result",
+  "license": "MIT",
+  "dependencies": {
+    "read-pkg": "^2.0.0"
+  }
+}
